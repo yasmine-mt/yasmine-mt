@@ -5,7 +5,7 @@ Software Engineering Student
 ----------------------------
 
 * 🌍  I'm based in Rabat
-* 🧠  I'm learning Automated Testing's Techniques 
+* 🧠  I'm learning Automated Testing Techniques  
 * ⚡  Contact me at : yasminemaataoui12@gmail.com
 
 ### Skills
